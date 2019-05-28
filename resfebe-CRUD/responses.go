@@ -1,10 +1,4 @@
 /*
- * Copyright (C) 2019  Murat Koptur
- *
- * Contact: mkoptur3@gmail.com
- *
- * Last edit: 3/30/19 10:21 PM
- *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
